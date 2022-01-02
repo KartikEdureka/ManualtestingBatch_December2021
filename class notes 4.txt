@@ -1,0 +1,149 @@
+Tester
+
+Static testing technique
+Documentation , no code execution is involved
+- understands requirement
+- Creates test plan
+- creating scenarios
+- create test cases
+
+-------------------------
+Dynamic testing technique
+- Execute test cases
+- raising bugs
+
+
+
+
+
+Statis testing
+- Review
+- 
+
+
+
+
+Verification is staic testing
+
+validation is dynamic testing
+
+
+
+
+Dynamic testing
+- BVA: boundary value analysis
+- Equivalence partition
+
+
+
+
+
+
+
+Test
+
+
+
+Username:
+- My username should be between 5- 16 character
+- Should containg Alphanumeric
+- Should not contain special character
+
+
+Password:
+- Should containg alpha numeric character
+- First character to be in upper case
+- should contain special character-
+- should be between 5-16 character
+
+
+Mobile: cannot exceed more than 10 character
+
+
+1---------------5-------------------------16-----------------------
+
+
+
+n, n+1, n-1
+
+5 , 6 ,4
+
+
+n ,n+1,n-1
+15,16,17
+
+
+
+Edu12------->valid
+Edu123-----> Valid
+Edu1-------->invalid
+
+
+
+Edureka12341234---------------->valid
+Edureka123412345---------------->valid
+Edureka1234123456---------------->invalid
+
+
+
+
+
+Equivalence partition
+
+create classes and from each class pick one data
+
+1---------------5-------------------------16-----------------------
+
+
+class 1:    1------4--------------------------->Ed3---->invalid
+class 2;    5-------16-------------------->Edureka123---->valid
+Class 3:     greater than 16 --------------->Edureka1233455465656456----->invalid
+
+
+
+
+
+Experience bases testing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
